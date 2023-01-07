@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bQoGwl3c8bwaSy+ovexdHf8xZkFshIHVvh2j3OQnztjgfG+NKGPMpNG9IMhv1SfxadJ6OqGmeYPlOshk6wu2wg==",
+  "success": true,
+  "projectFilePath": "C:\\Github\\GitHubTest\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.owdev.net/api/v2'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
