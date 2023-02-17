@@ -4,6 +4,7 @@
     {
         static void CheckNumber(this int number)
         {
+            int i=3;
 
         }
 
