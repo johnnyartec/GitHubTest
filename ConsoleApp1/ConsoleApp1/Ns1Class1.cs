@@ -8,5 +8,6 @@ namespace Namespace1
 {
     internal class Ns1Class1
     {
+        public int MyProperty { get; set; }
     }
 }
