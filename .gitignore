@@ -1,6 +1,4 @@
 ﻿/.vs
-/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.assets.cache
-/ConsoleApp1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.AssemblyReference.cache
-/.vs/GitHubTest/v17/.wsuo
-/.vs/slnx.sqlite
-/.vs/VSWorkspaceState.json
+/ConsoleApp1/.vs
+/ConsoleApp1/ConsoleApp1/obj
+/ConsoleApp1/ConsoleApp1/bin
